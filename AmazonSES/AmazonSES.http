@@ -1,0 +1,6 @@
+@AmazonSESTest_HostAddress = http://localhost:5024
+
+GET {{AmazonSESTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
